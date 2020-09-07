@@ -3,7 +3,7 @@ Prinzip:
   Mit 4 Mikrofonen soll der Ort einer Schallquelle herausgefunden werden.
   Das geht, weil der Schall an dem Mikrofon zuerst ankommt, das der Schallquelle am nächsten ist.
   
-  Eine Erweiterung wäre, eine Schallquelle wiedererkennen und verschiedene Schallquellen auseinader halten zu können.
+  Eine Erweiterung wäre, eine Schallquelle wiedererkennen und verschiedene Schallquellen auseinader halten zu können. Autokorellation, Kreuzkorellation.
   Eine zweite Erweiterung wäre, sich bewegende Schallquellen verfolgen zu können.
   Eine dritte Erweiterung wäre, durch Aufzeichnen der Reflexionen von Schall an Gegenständen, ein 3D-Bild der Umgebung zu machen
   
